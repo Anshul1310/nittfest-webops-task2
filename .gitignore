@@ -1,11 +1,4 @@
 
-**/nginx.conf
-nginx.conf
-
-
-
-# Local development overrides
-
 # Dependency directories
 node_modules/
 jspm_packages/
