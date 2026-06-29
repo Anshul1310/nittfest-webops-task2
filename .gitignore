@@ -1,14 +1,11 @@
 
 **/Dockerfile
-**/.env
 **/nginx.conf
 nginx.conf
 
 
 
 # Local development overrides
-.env.local
-.env.*.local
 
 # Dependency directories
 node_modules/
